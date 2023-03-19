@@ -42,10 +42,8 @@
 
 ## Screenshots:
 
-<img src="./screenshots/Home.jpg" width="200"/>
-<img src="./screenshots/Forecast.jpg" width="200"/>
-<img src="./screenshots/ForecastDetails.jpg" width="200"/>
-<img src="./screenshots/Locations.jpg" width="200"/>
+<img src="./screenshots/Home.jpg" width="200"/> <img src="./screenshots/Forecast.jpg" width="200"/>
+<img src="./screenshots/ForecastDetails.jpg" width="200"/> <img src="./screenshots/Locations.jpg" width="200"/>
 
 ---
 
