@@ -6,20 +6,6 @@
 
 ---
 
-## General Information:
-
--  You can find all the releases in the releases section.
--  You can also create issues and give suggestions/feedbacks here
-
----
-
-## Information Regarding apk files:
-
--  **arm64-v8a**: For 64-bit architecture devices
--  **armeabi-v7a**: For 32-bit architecture devices
-
----
-
 ## Features:
 
 -  Proper material design with support for **material you design**
@@ -37,6 +23,20 @@
 >
 > -  Android 12 & above will extract colors from wallpaper set on your device
 > -  Other android versions uses accent colors within app to match material you system.
+
+---
+
+## General Information:
+
+-  You can find all the releases in the releases section.
+-  You can also create issues and give suggestions/feedbacks here
+
+---
+
+## Information Regarding apk files:
+
+-  **arm64-v8a**: For 64-bit architecture devices
+-  **armeabi-v7a**: For 32-bit architecture devices
 
 ---
 
