@@ -42,8 +42,15 @@
 
 ## Screenshots:
 
-<img src="./screenshots/Home.jpg" width="200"/> <img src="./screenshots/Forecast.jpg" width="200"/>
-<img src="./screenshots/ForecastDetails.jpg" width="200"/> <img src="./screenshots/Locations.jpg" width="200"/>
+#### Dark theme-
+
+<img src="./screenshots/Dark/HomeDark.jpg" width="200"/> <img src="./screenshots/Dark/ForecastDark.jpg" width="200"/>
+<img src="./screenshots/Dark/ForecastDetailsDark.jpg" width="200"/> <img src="./screenshots/Dark/LocationsDark.jpg" width="200"/>
+
+#### Light theme-
+
+<img src="./screenshots/Light/HomeLight.jpg" width="200"/> <img src="./screenshots/Light/ForecastLight.jpg" width="200"/>
+<img src="./screenshots/Light/ForecastDetailsLight.jpg" width="200"/> <img src="./screenshots/Light/LocationsLight.jpg" width="200"/>
 
 ---
 
