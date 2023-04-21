@@ -51,11 +51,11 @@
 
 ## Translators:
 
--  [Krystl](https://crowdin.com/profile/krystl)
--  [Evasion4715](https://crowdin.com/profile/evasion4715)
--  [Patrick Loidl](https://crowdin.com/profile/palo6415)
--  [KrystlMuhammad Rizqi Imani](https://crowdin.com/profile/rizqiimani)
--  [h 下划线 h](https://crowdin.com/profile/hunderlinehh)
+-  [Krystl](https://crowdin.com/profile/krystl) - Serbian (Latin)
+-  [Evasion4715](https://crowdin.com/profile/evasion4715) - Russian
+-  [Patrick Loidl](https://crowdin.com/profile/palo6415) - German
+-  [KrystlMuhammad Rizqi Imani](https://crowdin.com/profile/rizqiimani) - Indonesian
+-  [h 下划线 h](https://crowdin.com/profile/hunderlinehh) - Chinese Simplified
 
 ---
 
