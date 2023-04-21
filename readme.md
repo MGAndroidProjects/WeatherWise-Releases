@@ -3,6 +3,14 @@
    <h2>WeatherWiseApp</h2>
    <p>a material design, <strong>closed source live-weather app</strong> for android with <strong>Material You</strong> theming.</p>
 </div>
+<div align="center">
+  <a href="https://github.com/MGAndroidProjects/WeatherWise-Releases" style="text-decoration:none" area-label="Android">
+    <img src="https://img.shields.io/badge/Platform-Flutter-blue?style=for-the-badge">
+  </a>
+  <a href="https://github.com/MGAndroidProjects/WeatherWise-Releases" style="text-decoration:none" area-label="Min API: 21">
+    <img src="https://img.shields.io/badge/minSdkVersion-21-green.svg?style=for-the-badge">
+  </a>
+</div>
 
 ---
 
@@ -11,12 +19,13 @@
 -  Proper material design with support for **material you design**
 -  Custom accent colors for Android 11 and below.
 -  Get **current weather**
--  Weather based on GPS location or manual entered text.
+-  Weather based on GPS location or manual entered text with autocomplete.
 -  Get **forecast for 5 days of 3 hour interval**
--  Save locations locally and the ability to edit/delete them.
+-  Save locations locally and the ability to delete them.
 -  Theme switcher
 -  Change temperature units
 -  Change navigation label behaviour
+-  Change inactive places icon style
 -  Theme matching icons and splash icons
 
 > Note:
@@ -40,6 +49,16 @@
 
 ---
 
+## Translators:
+
+-  [Krystl](https://crowdin.com/profile/krystl)
+-  [Evasion4715](https://crowdin.com/profile/evasion4715)
+-  [Patrick Loidl](https://crowdin.com/profile/palo6415)
+-  [KrystlMuhammad Rizqi Imani](https://crowdin.com/profile/rizqiimani)
+-  [h 下划线 h](https://crowdin.com/profile/hunderlinehh)
+
+---
+
 ## Screenshots:
 
 #### Dark theme-
@@ -56,9 +75,13 @@
 
 ## Current todo:
 
--  Add multiple API or change to AccuWeather or best alternative
--  Add text auto complete for adding new location
--  UI Animations
+-  Add multiple API or change to AccuWeather or best alternative(not planned)
 -  Support for providing own API key
--  System based font (not supported by flutter)
--  Homescreen widgets (not natively supported by flutter)
+-  Make homescreen widgets
+
+## List of things not supported by flutter (officially or partially or not built-in):
+
+-  Homescreen widgets (Not built-in)
+-  [System based font ](https://github.com/flutter/flutter/issues/48381)
+-  [Predictive back gestures](https://github.com/flutter/flutter/issues/109513)
+-  [Per-app language preferences](https://github.com/flutter/flutter/issues/109842)
