@@ -4,12 +4,11 @@
    <p>a material design, <strong>closed source live-weather app</strong> for android with <strong>Material You</strong> theming.</p>
 </div>
 <div align="center">
-  <a href="https://github.com/MGAndroidProjects/WeatherWise-Releases" style="text-decoration:none" area-label="Android">
-    <img src="https://img.shields.io/badge/Platform-Flutter-blue?style=for-the-badge">
-  </a>
-  <a href="https://github.com/MGAndroidProjects/WeatherWise-Releases" style="text-decoration:none" area-label="Min API: 21">
-    <img src="https://img.shields.io/badge/minSdkVersion-21-green.svg?style=for-the-badge">
-  </a>
+
+![Flutter](https://img.shields.io/badge/Platform-Flutter-blue)
+![minSdkVersion](https://img.shields.io/badge/minSdkVersion-21-green.svg)
+[![Crowdin](https://badges.crowdin.net/weatherwise/localized.svg)](https://crowdin.com/project/weatherwise)
+
 </div>
 
 ---
