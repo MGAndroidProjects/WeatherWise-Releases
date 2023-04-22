@@ -57,6 +57,7 @@
 -  [KrystlMuhammad Rizqi Imani](https://crowdin.com/profile/rizqiimani) - Indonesian
 -  [h 下划线 h](https://crowdin.com/profile/hunderlinehh) - Chinese Simplified
 -  [Ákos Paha](https://crowdin.com/profile/pahaakos) - Hungarian
+-  [Rippa NonProfit](https://crowdin.com/profile/rippanonprofit) - Spanish
 
 ---
 
