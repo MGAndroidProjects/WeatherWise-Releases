@@ -16,7 +16,7 @@
 ## Features:
 
 -  Proper material design with support for **material you design**
--  Custom accent colors for Android 11 and below.
+-  Custom accent colors when dynamic theming is off.
 -  Get **current weather**
 -  Weather based on GPS location or manual entered text with autocomplete.
 -  Get **forecast for 5 days of 3 hour interval**
@@ -57,6 +57,8 @@
 -  [h 下划线 h](https://crowdin.com/profile/hunderlinehh) - Chinese Simplified
 -  [Ákos Paha](https://crowdin.com/profile/pahaakos) - Hungarian
 -  [Rippa NonProfit](https://crowdin.com/profile/rippanonprofit) - Spanish
+-  [Vanitas](https://crowdin.com/profile/BlackSpectrum) - Gujarati
+-  [ktodorov0](https://crowdin.com/profile/ktodorov0) - Bulgarian
 
 ---
 
@@ -77,7 +79,6 @@
 ## Current todo:
 
 -  Add multiple API or change to AccuWeather or best alternative(not planned)
--  Support for providing own API key
 -  Make homescreen widgets
 
 ## List of things not supported by flutter (officially or partially or not built-in):
