@@ -59,6 +59,7 @@
 -  [Rippa NonProfit](https://crowdin.com/profile/rippanonprofit) - Spanish
 -  [Vanitas](https://crowdin.com/profile/BlackSpectrum) - Gujarati
 -  [ktodorov0](https://crowdin.com/profile/ktodorov0) - Bulgarian
+-  [Lorenzo Geromel](https://crowdin.com/profile/lorenzo.geromel) - Italian
 
 ---
 
