@@ -60,6 +60,7 @@
 -  [Vanitas](https://crowdin.com/profile/BlackSpectrum) - Gujarati
 -  [ktodorov0](https://crowdin.com/profile/ktodorov0) - Bulgarian
 -  [Lorenzo Geromel](https://crowdin.com/profile/lorenzo.geromel) - Italian
+-  [Ant. Rares](https://crowdin.com/profile/iepurooy) - Romanian
 
 ---
 
