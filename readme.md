@@ -8,7 +8,7 @@
 ![Flutter](https://img.shields.io/badge/Platform-Flutter-blue)
 ![minSdkVersion](https://img.shields.io/badge/minSdkVersion-21-green.svg)
 [![Crowdin](https://badges.crowdin.net/weatherwise/localized.svg)](https://crowdin.com/project/weatherwise)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/milindgoel15)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white)](https://paypal.me/milindgoel15)
 
 </div>
 
