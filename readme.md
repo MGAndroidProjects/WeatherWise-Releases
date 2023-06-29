@@ -17,12 +17,14 @@
 ## Features:
 
 -  Proper material design with support for **material you design**
--  Custom accent colors when dynamic theming is off.
--  Get **current weather**
--  Weather based on GPS location or manual entered text with autocomplete.
--  Get **forecast for 5 days of 3 hour interval**
+-  Custom accent colours when dynamic colours are off.
+-  Get **current weather data**
+-  Get **forecast data for 5 days of 3-hour intervals**
+-  Monet-based splash screen for Android 12+ devices.
+-  Monochrome icon for Android 13+ devices.
+-  Theme switcher (Light, dark and AMOLED/black mode)
+-  Weather-based on GPS location or manually entered text with autocomplete.
 -  Save locations locally and the ability to delete them.
--  Theme switcher
 -  Change temperature units
 -  Change navigation label behaviour
 -  Change inactive places icon style
@@ -70,19 +72,19 @@
 #### Dark theme-
 
 <img src="./screenshots/Dark/HomeDark.jpg" width="200"/> <img src="./screenshots/Dark/ForecastDark.jpg" width="200"/>
-<img src="./screenshots/Dark/ForecastDetailsDark.jpg" width="200"/> <img src="./screenshots/Dark/LocationsDark.jpg" width="200"/>
+<img src="./screenshots/Dark/ForecastDetailsDark.jpg" width="200"/> <img src="./screenshots/Dark/SavedDark.jpg" width="200"/>
 
 #### Light theme-
 
 <img src="./screenshots/Light/HomeLight.jpg" width="200"/> <img src="./screenshots/Light/ForecastLight.jpg" width="200"/>
-<img src="./screenshots/Light/ForecastDetailsLight.jpg" width="200"/> <img src="./screenshots/Light/LocationsLight.jpg" width="200"/>
+<img src="./screenshots/Light/ForecastDetailsLight.jpg" width="200"/> <img src="./screenshots/Light/SavedLight.jpg" width="200"/>
 
 ---
 
 ## Current todo:
 
--  Add multiple API or change to AccuWeather or best alternative(not planned)
--  Make homescreen widgets
+-  Add multiple API support (Priority: LOW)
+-  Make homescreen widgets (Priority: LOW)
 
 ## List of things not supported by flutter (officially or partially or not built-in):
 
