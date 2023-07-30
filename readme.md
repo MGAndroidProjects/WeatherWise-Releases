@@ -29,6 +29,7 @@
 -  Change navigation label behaviour
 -  Change inactive places icon style
 -  Theme matching icons and splash icons
+-  Material you based android widgets
 
 > Note:
 >
@@ -48,6 +49,7 @@
 
 -  **arm64-v8a**: For 64-bit architecture devices
 -  **armeabi-v7a**: For 32-bit architecture devices
+-  **universal**: For all devices irrespective of their architecture
 
 ---
 
@@ -83,8 +85,8 @@
 
 ## Current todo:
 
--  Add multiple API support (Priority: LOW)
--  Make homescreen widgets (Priority: LOW)
+-  [ ] Add multiple API support (Priority: LOW)
+-  [x] ~~Make homescreen widgets (Priority: LOW)~~ Done
 
 ## List of things not supported by flutter (officially or partially or not built-in):
 
