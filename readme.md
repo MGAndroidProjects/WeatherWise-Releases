@@ -69,6 +69,7 @@
 -  [Lorenzo Geromel](https://crowdin.com/profile/lorenzo.geromel) - Italian
 -  [Ant. Rares](https://crowdin.com/profile/iepurooy) - Romanian
 -  [Lefteris T.](https://crowdin.com/profile/leftertrp) - Greek
+-  [RikoDEV](https://crowdin.com/profile/rikodev) - Polish
 
 ---
 
