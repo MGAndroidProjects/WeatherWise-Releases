@@ -75,15 +75,15 @@
 
 ## Screenshots:
 
-#### Dark theme-
+#### Mobile-
 
-<img src="./screenshots/Dark/HomeDark.jpg" width="200"/> <img src="./screenshots/Dark/ForecastDark.jpg" width="200"/>
-<img src="./screenshots/Dark/ForecastDetailsDark.jpg" width="200"/> <img src="./screenshots/Dark/SavedDark.jpg" width="200"/>
+| <img src="./screenshots/android/HomeDark.jpg" width="180"/> | <img src="./screenshots/android/ForecastDark.jpg" width="180"/> | <img src="./screenshots/android/ForecastDetailsDark.jpg" width="180"/> | <img src="./screenshots/android/SavedDark.jpg" width="180"/> |
+| ----------------------------------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------ |
 
-#### Light theme-
+#### Tablet/desktop-
 
-<img src="./screenshots/Light/HomeLight.jpg" width="200"/> <img src="./screenshots/Light/ForecastLight.jpg" width="200"/>
-<img src="./screenshots/Light/ForecastDetailsLight.jpg" width="200"/> <img src="./screenshots/Light/SavedLight.jpg" width="200"/>
+| <img src="./screenshots/windows/HomeDark.png" width="220"/> | <img src="./screenshots/windows/ForecastDark.png" width="220"/> | <img src="./screenshots/windows/ForecastDetailsDark.png" width="220"/> | <img src="./screenshots/windows/SavedDark.png" width="220"/> |
+| ----------------------------------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------ |
 
 ---
 
@@ -98,3 +98,4 @@
 -  [System based font ](https://github.com/flutter/flutter/issues/48381)
 -  [Predictive back gestures](https://github.com/flutter/flutter/issues/109513)
 -  [Per-app language preferences](https://github.com/flutter/flutter/issues/109842)
+-  [Splash Screen for desktop app](https://github.com/flutter/flutter/issues/41980)
