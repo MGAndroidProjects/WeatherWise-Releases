@@ -47,11 +47,12 @@
 
 ---
 
-## Information Regarding apk files:
+## Information Regarding release files:
 
 -  **arm64-v8a**: For 64-bit architecture devices
 -  **armeabi-v7a**: For 32-bit architecture devices
 -  **universal**: For all devices irrespective of their architecture
+-  **msix builds**: For windows devices
 
 ---
 
