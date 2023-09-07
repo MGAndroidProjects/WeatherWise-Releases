@@ -6,7 +6,7 @@
 <div align="center">
 
 ![Flutter](https://img.shields.io/badge/Platform-Flutter-blue)
-![minSdkVersion](https://img.shields.io/badge/minSdkVersion-21-green.svg)
+![minSdkVersion](https://img.shields.io/badge/minSdkVersion-23-green.svg)
 [![Crowdin](https://badges.crowdin.net/weatherwise/localized.svg)](https://crowdin.com/project/weatherwise)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white)](https://paypal.me/milindgoel15)
 
@@ -25,6 +25,7 @@
 -  Monet-based splash screen for Android 12+ devices.
 -  Monochrome icon for Android 13+ devices.
 -  Theme switcher (Light, dark and AMOLED/black mode)
+-  Font chooser option from Google fonts
 -  Weather-based on GPS location or manually entered text with autocomplete.
 -  Save locations locally and the ability to delete them.
 -  Change temperature units
@@ -32,6 +33,7 @@
 -  Change inactive places icon style
 -  Theme matching icons and splash icons
 -  Material you based android widgets
+- Powerful Weather APIs such as [OpenWeather](https://openweathermap.org/api), [AccuWeather](https://www.accuweather.com/) and [FreeWeatherApi](https://weatherapi.com/)
 
 > Note:
 >
@@ -90,12 +92,11 @@
 
 ## Current todo:
 
--  [ ] Add multiple API support (Priority: LOW)
+-  [X] ~~Add multiple API support (Priority: LOW)~~ Done
 -  [x] ~~Make homescreen widgets (Priority: LOW)~~ Done
 
 ## List of things not supported by flutter (officially or partially or not built-in):
 
--  Homescreen widgets (Not built-in)
 -  [System based font ](https://github.com/flutter/flutter/issues/48381)
 -  [Predictive back gestures](https://github.com/flutter/flutter/issues/109513)
 -  [Per-app language preferences](https://github.com/flutter/flutter/issues/109842)
