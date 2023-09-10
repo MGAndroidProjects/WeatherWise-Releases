@@ -21,16 +21,18 @@
 -  Proper material design with support for **material you design**
 -  Custom accent colours when dynamic colours are off.
 -  Get **current weather data**
--  Get **forecast data for 5 days of 3-hour intervals**
+-  Get **forecast weather information for future periods**
 -  Monet-based splash screen for Android 12+ devices.
 -  Monochrome icon for Android 13+ devices.
+-  **Beautiful homescreen widgets** for Android devices (Available in Glance, Pixel-style Glance, Detailed & tile widget)
+-  **Cross-platform** support (Currently Android & Windows based devices)
 -  Theme switcher (Light, dark and AMOLED/black mode)
 -  Font chooser option from Google fonts
 -  Weather-based on GPS location or manually entered text with autocomplete.
 -  Save locations locally and the ability to delete them.
--  Change temperature units
+-  Change various units of measurement (temperature, wind, rain/snow, pressure)
 -  Change navigation label behaviour
--  Change inactive places icon style
+-  Change icon style for your saved inactive places
 -  Theme matching icons and splash icons
 -  Material you based android widgets
 - Powerful Weather APIs such as [OpenWeather](https://openweathermap.org/api), [AccuWeather](https://www.accuweather.com/) and [FreeWeatherApi](https://weatherapi.com/)
@@ -80,10 +82,20 @@
 
 #### Mobile-
 
-| <img src="./screenshots/android/HomeDark.jpg" width="180"/> | <img src="./screenshots/android/ForecastDark.jpg" width="180"/> | <img src="./screenshots/android/ForecastDetailsDark.jpg" width="180"/> | <img src="./screenshots/android/SavedDark.jpg" width="180"/> |
+| <img src="./screenshots/android/HomeDark.png" width="180"/> | <img src="./screenshots/android/ForecastDark.png" width="180"/> | <img src="./screenshots/android/ForecastDetailsDark.png" width="180"/> | <img src="./screenshots/android/SavedDark.png" width="180"/> |
 | ----------------------------------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------ |
 
-#### Tablet/desktop-
+#### Foldables-
+
+| <img src="./screenshots/foldables/HomeDark.png" width="220"/> | <img src="./screenshots/foldables/ForecastDark.png" width="220"/> | <img src="./screenshots/foldables/ForecastDetailsDark.png" width="220"/> | <img src="./screenshots/foldables/SavedDark.png" width="220"/> |
+| ----------------------------------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------ |
+
+#### Tablet-
+
+| <img src="./screenshots/tablet/HomeDark.png" width="220"/> | <img src="./screenshots/tablet/ForecastDark.png" width="220"/> | <img src="./screenshots/tablet/ForecastDetailsDark.png" width="220"/> | <img src="./screenshots/tablet/SavedDark.png" width="220"/> |
+| ----------------------------------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------ |
+
+#### Desktop-
 
 | <img src="./screenshots/windows/HomeDark.png" width="220"/> | <img src="./screenshots/windows/ForecastDark.png" width="220"/> | <img src="./screenshots/windows/ForecastDetailsDark.png" width="220"/> | <img src="./screenshots/windows/SavedDark.png" width="220"/> |
 | ----------------------------------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------ |
