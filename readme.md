@@ -24,7 +24,7 @@
 -  Get **forecast weather information for future periods**
 -  Monet-based splash screen for Android 12+ devices.
 -  Monochrome icon for Android 13+ devices.
--  **Beautiful homescreen widgets** for Android devices (Available in Glance, Pixel-style Glance, Detailed & tile widget)
+-  **Beautiful home-screen widgets** for Android devices (Available in Glance, Pixel-style Glance, Detailed, tile & Omelette widgets)
 -  **Cross-platform** support (Currently Android & Windows based devices)
 -  Theme switcher (Light, dark and AMOLED/black mode)
 -  Font chooser option from Google fonts
@@ -32,22 +32,22 @@
 -  Save locations locally and the ability to delete them.
 -  Change various units of measurement (temperature, wind, rain/snow, pressure)
 -  Change navigation label behaviour
--  Change icon style for your saved inactive places
+-  Change the icon style for your saved inactive places
 -  Theme matching icons and splash icons
--  Material you based android widgets
+-  Material you based Android widgets
 - Powerful Weather APIs such as [OpenWeather](https://openweathermap.org/api), [AccuWeather](https://www.accuweather.com/) and [FreeWeatherApi](https://weatherapi.com/)
 
 > Note:
 >
-> -  Android 12 & above will extract colors from wallpaper set on your device
-> -  Other android versions uses accent colors within app to match material you system.
+> -  Android 12 & above will extract colours from the wallpaper set on your device
+> -  Other Android versions use accent colours within the app to match the material you system.
 
 ---
 
 ## General Information:
 
 -  You can find all the releases in the releases section.
--  You can also create issues and give suggestions/feedbacks here
+-  You can also create issues and give suggestions/feedback here
 
 ---
 
