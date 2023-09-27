@@ -110,6 +110,6 @@
 ## List of things not supported by flutter (officially or partially or not built-in):
 
 -  [System based font ](https://github.com/flutter/flutter/issues/48381)
--  [Predictive back gestures](https://github.com/flutter/flutter/issues/109513)
+-  [Predictive back gestures](https://github.com/flutter/flutter/issues/132504)
 -  [Per-app language preferences](https://github.com/flutter/flutter/issues/109842)
 -  [Splash Screen for desktop app](https://github.com/flutter/flutter/issues/41980)
