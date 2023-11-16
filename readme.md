@@ -80,6 +80,7 @@
 -  [Ant. Rares](https://crowdin.com/profile/iepurooy) - Romanian
 -  [Lefteris T.](https://crowdin.com/profile/leftertrp) - Greek
 -  [RikoDEV](https://crowdin.com/profile/rikodev) - Polish
+-  [Marco Polo](https://crowdin.com/profile/creusat.ma) - French
 
 ---
 
