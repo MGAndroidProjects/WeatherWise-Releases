@@ -111,14 +111,8 @@
 
 ---
 
-## Current todo:
-
--  [X] ~~Add multiple API support (Priority: LOW)~~ Done
--  [x] ~~Make homescreen widgets (Priority: LOW)~~ Done
-
 ## List of things not supported by flutter (officially or partially or not built-in):
 
 -  [System based font ](https://github.com/flutter/flutter/issues/48381)
--  [Predictive back gestures](https://github.com/flutter/flutter/issues/132504)
 -  [Per-app language preferences](https://github.com/flutter/flutter/issues/109842)
 -  [Splash Screen for desktop app](https://github.com/flutter/flutter/issues/41980)
