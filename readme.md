@@ -24,24 +24,26 @@
 
 ## Features:
 
--  Proper material design with support for **material you design**
--  Custom accent colours when dynamic colours are off.
--  Get **current weather data**
--  Get **forecast weather information for future periods**
--  Monet-based splash screen for Android 12+ devices.
--  Monochrome icon for Android 13+ devices.
--  **Beautiful home-screen widgets** for Android devices (Available in Glance, Pixel-style Glance, Detailed, tile & Omelette widgets)
--  **Cross-platform** support (Currently Android & Windows based devices)
--  Theme switcher (Light, dark and AMOLED/black mode)
--  Font chooser option from Google fonts
--  Weather-based on GPS location or manually entered text with autocomplete.
--  Save locations locally and the ability to delete them.
--  Change various units of measurement (temperature, wind, rain/snow, pressure)
--  Change navigation label behaviour
--  Change the icon style for your saved inactive places
--  Theme matching icons and splash icons
--  Material you based Android widgets
-- Powerful Weather APIs such as [OpenWeather](https://openweathermap.org/api), [AccuWeather](https://www.accuweather.com/) and [FreeWeatherApi](https://weatherapi.com/)
+**Visuals & Customization**
+- Adaptive Material Design: Full support for Material You (Android 12+) with dynamic color extraction from your wallpaper.
+- Dynamic Theming: Theme switcher including Light, Dark, and AMOLED/Black modes.
+- Custom Color Palettes: Manual accent color selection when dynamic coloring is disabled.
+- Typography: Integrated Google Fonts library with a built-in font chooser.
+- Icon Customization: Monochrome icon support (Android 13+) and customizable icon styles for saved locations.
+
+**Weather Intelligence**
+- Precision Data: Real-time current conditions and detailed future forecasts.
+- Global Search: Location tracking via GPS or manual entry with smart autocomplete.
+- Multi-Source Reliability: Powered by industry-leading APIs including OpenWeather, AccuWeather, and WeatherAPI.
+- Personalized Units: Fully adjustable measurements for temperature, wind speed, precipitation, and pressure.
+
+**Android Integration**
+- Versatile Widgets: A diverse collection of Material You widgets including Glance (Standard and Pixel-style), Detailed, Tile, and Omelette layouts.
+
+**Utility & Management**
+- Cross-Platform Availability: Seamless experience across Android and Windows devices.
+- Location Manager: Securely save and manage a list of favorite locations locally.
+
 
 > Note:
 >
