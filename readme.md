@@ -19,6 +19,10 @@
 
 ## Downloads:
 
+
+[![Get it on Google Play](https://play.google.com/store/apps/details?id=com.mgprojects.weatherwis)
+
+
 [![GitHub Release](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MGAndroidProjects/WeatherWise-Releases/releases/latest)
 
 ## Features:
