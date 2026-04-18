@@ -6,7 +6,7 @@
 <div align="center">
 
 ![Flutter](https://img.shields.io/badge/Platform-Flutter-blue)
-![minSdkVersion](https://img.shields.io/badge/minSdkVersion-23-green.svg)
+![minSdkVersion](https://img.shields.io/badge/minSdkVersion-31-green.svg)
 [![Crowdin](https://badges.crowdin.net/weatherwise/localized.svg)](https://crowdin.com/project/weatherwise)
 
 </div>
