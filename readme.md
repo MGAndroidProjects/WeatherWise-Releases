@@ -48,7 +48,7 @@
 > Note:
 >
 > -  Android 12 & above will extract colours from the wallpaper set on your device
-> -  Other Android versions use accent colours within the app to match the material you system.
+> -  Other Android versions use accent colours within the app to match the Material You system.
 
 ---
 
@@ -84,30 +84,6 @@
 -  [Lefteris T.](https://crowdin.com/profile/leftertrp) - Greek
 -  [RikoDEV](https://crowdin.com/profile/rikodev) - Polish
 -  [Marco Polo](https://crowdin.com/profile/creusat.ma) - French
-
----
-
-## Screenshots:
-
-#### Mobile-
-
-| <img src="./screenshots/android/HomeDark.png" width="180"/> | <img src="./screenshots/android/ForecastDark.png" width="180"/> | <img src="./screenshots/android/ForecastDetailsDark.png" width="180"/> | <img src="./screenshots/android/SavedDark.png" width="180"/> |
-| ----------------------------------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------ |
-
-#### Foldables-
-
-| <img src="./screenshots/foldables/HomeDark.png" width="220"/> | <img src="./screenshots/foldables/ForecastDark.png" width="220"/> | <img src="./screenshots/foldables/ForecastDetailsDark.png" width="220"/> | <img src="./screenshots/foldables/SavedDark.png" width="220"/> |
-| ----------------------------------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------ |
-
-#### Tablet-
-
-| <img src="./screenshots/tablet/HomeDark.png" width="220"/> | <img src="./screenshots/tablet/ForecastDark.png" width="220"/> | <img src="./screenshots/tablet/ForecastDetailsDark.png" width="220"/> | <img src="./screenshots/tablet/SavedDark.png" width="220"/> |
-| ----------------------------------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------ |
-
-#### Desktop-
-
-| <img src="./screenshots/windows/HomeDark.png" width="220"/> | <img src="./screenshots/windows/ForecastDark.png" width="220"/> | <img src="./screenshots/windows/ForecastDetailsDark.png" width="220"/> | <img src="./screenshots/windows/SavedDark.png" width="220"/> |
-| ----------------------------------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------ |
 
 ---
 
